@@ -1,0 +1,13 @@
+# $Id: README.txt 35 2008-04-25 04:33:26Z sekuyo $
+
+From my days playing World of Warcraft.  It was sometimes more fun to write
+addons than advance in the game.
+
+Cartographer_NoteTarget v0.3
+----------------------------
+
+Supply a slash command (/ctnt) to capture a few details for the targeted
+unit and save them in a map note.
+
+If you do not have anything targeted, typing /ctnt <something> will create a
+note at your location with <something> as the title.
